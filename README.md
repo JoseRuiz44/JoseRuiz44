@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola!! 👋
 
-<!--
-**JoseRuiz44/JoseRuiz44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Jose Antonio, soy alumno de Digitech y estoy estudiando Desarrollo de Aplicaciones Multiplataforma.
 
-Here are some ideas to get you started:
+Esto forma parte de una actividad de Entornos de Desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este curso estoy aprendiendo a utilizar *HTM*, *CSS* *git*, *github*, *SQL*, *java* entre otras.
+
+**Aquí os dejo un Hola mundo con java.**
+```java
+public class holaMundo {
+	public static void main(String[] args) {
+	System.out.println("Hola mundo");
+	}
+}
+```
+Y aquí os dejo una cita del gran Albert Einstein.
+> Dar el ejemplo no es la principal manera de influir sobre los demás; es la única manera. (Albert Einstein)
