@@ -14,5 +14,5 @@ public class holaMundo {
 	}
 }
 ```
-Y aquí os dejo una cita del gran Albert Einstein.
+Y aquí os dejo una cita de uno de los grandes.
 > Dar el ejemplo no es la principal manera de influir sobre los demás; es la única manera. (Albert Einstein)
